@@ -4,3 +4,4 @@
 * Red Skull
 * Dr Yeff
 * Dr Samu
+* Tentaculus
